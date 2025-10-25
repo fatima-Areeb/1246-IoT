@@ -1,11 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "."
-		},
-		{
-			"name": "week5-lec3-buzzer",
-			"path": "week5-lec3-buzzer"
+			"name": "week4-OLED",
+			"path": "../1246-IoT-labs/week(4)/week4-OLED"
 		}
 	],
 	"settings": {}
